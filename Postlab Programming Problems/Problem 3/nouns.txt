@@ -1,0 +1,10 @@
+dog
+cat
+house
+car
+tree
+apple
+computer
+book
+mountain
+ocean
