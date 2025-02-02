@@ -1,9 +1,0 @@
-on
-under
-beside
-near
-above
-below
-between
-over
-through
